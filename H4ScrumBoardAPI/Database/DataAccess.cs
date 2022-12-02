@@ -6,7 +6,7 @@ namespace H4ScrumBoardAPI.Database
 {
     public class DataAccess
     {
-        const string ConnString = "Server=DESKTOP-HT94JHQ\\SQLEXPRESS;Database=H4ScrumBoard;Trusted_Connection=True;";
+        const string ConnString = "Server=DESKTOP-Q9H2GH7\\SQLEXPRESS;Database=H4ScrumBoard;Trusted_Connection=True;";
         SqlConnection conn;
         SqlCommand cmd;
         SqlDataReader reader;
